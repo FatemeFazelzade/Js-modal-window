@@ -1,2 +1,2 @@
-Modal Windows By Phi!<br/>Modal windows using CSS and JavaScript<br/>Live on: https://modalwindowsbyphi.netlify.app/<br/><br/><img width="1470" height="739" alt="Screenshot 2026-08-23 at 20 39 05" src="https://github.com/user-attachments/assets/3e7cafe8-292b-47c8-b92b-acd659b2a925" />
+Overview:<br/><br/><img width="1470" height="739" alt="Screenshot 2026-08-23 at 20 39 05" src="https://github.com/user-attachments/assets/3e7cafe8-292b-47c8-b92b-acd659b2a925" />
 <br/><br/><img width="1470" height="738" alt="Screenshot 2026-08-23 at 20 39 25" src="https://github.com/user-attachments/assets/53d630a9-5bc5-4c3e-9dfb-115c5ad74e13" />
